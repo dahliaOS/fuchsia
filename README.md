@@ -13,7 +13,7 @@ There currently is no set in stone release schedule for these releases.
 
 ## Contribute
 
-If you're wondering how to contribute to the project, please refer to [CONTRIBUTING.md](../CONTRIBUTING.md)
+If you're wondering how to contribute to the project, please refer to [CONTRIBUTING.md](https://docs.dahliaos.io/contribute/contribute)
 
 
 ## License

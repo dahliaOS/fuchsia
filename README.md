@@ -29,8 +29,13 @@ There currently is no set in stone release schedule for these releases.
 | Amlogic | Aarch64 | S905X | Q1 2016 | Quad-core Cortex-A53 @ 1.51Ghz, 28nm | [gadgetversus.com](https://gadgetversus.com/processor/amlogic-s905x-specs/)
 | Amlogic | Aarch64 | S912 | Q2 2016 | Octo-core Cortex-A53 @ 1.5Ghz, 28nm | [gadgetversus.com](https://gadgetversus.com/processor/amlogic-s912-specs/)
 | Amlogic | Aarch64 | S905D2 | Q2 2018 | Quad-core Cortex-A53 @ 1.83Ghz, Mali-G31 MP2 GPU, 14nm | [cnx-software.com](https://www.cnx-software.com/2018/05/01/amlogic-s905d2-quad-core-cortex-a53-processor-coming-soon-with-google-fuchsia-support/) 
-| Amlogic | Aarch64 | S905D3 | Q4 2019 | Quad-Core Cortex-A53 @ 1.91Ghz, Mali-G31 MP2 GPU, 12nm | [gadgetversus.com](https://gadgetversus.com/processor/amlogic-s905d3-specs/)
-| Amlogic | Aarch64 | T931 | Early 2019 | Quad-Core Cortex-A73 @ 1.8Ghz, Duel-Core Cortex-A53 @ 1.9Ghz, Mali-G52 MP6, ?nm | [wikidevi.wi-cat.ru](https://wikidevi.wi-cat.ru/Google_Nest_Hub_Max_(H2A)) 
+| Amlogic | Aarch64 | S905D3 | Q4 2019 | Quad-core Cortex-A53 @ 1.91Ghz, Mali-G31 MP2 GPU, 12nm | [gadgetversus.com](https://gadgetversus.com/processor/amlogic-s905d3-specs/)
+| Amlogic | Aarch64 | T931 | Early 2019 | Quad-core Cortex-A73 @ 1.8Ghz, Duel-Core Cortex-A53 @ 1.9Ghz, Mali-G52 MP6, ?nm | [wikidevi.wi-cat.ru](https://wikidevi.wi-cat.ru/Google_Nest_Hub_Max_(H2A)) 
+
+| Manufacturer | Arch | CPU/SOC | Release Date | Specs | Link |
+|--------------|------|---------|--------------|-------|------|  
+| NXP | Aarch64 | IMX8M | 2018 | Quad-core Cortex-A53 @ 1.5Ghz | [nxp.com](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-family-armcortex-a53-cortex-m4-audio-voice-video:i.MX8M)
+| NXP | Aarch64 | IMX8MM | 2019 | Quad-core Cortex-A53 @ 1.8Ghz | [nxp.com](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-8-applications-processors/i-mx-8m-mini-arm-cortex-a53-cortex-m4-audio-voice-video:i.MX8MMINI) |
 
 #### Intel 
 This table is based around display driver support for the device IDs found in intel-i915.bind.
